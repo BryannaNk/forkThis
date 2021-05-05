@@ -1,21 +1,21 @@
-# Project Title
+# Full Stack test
 
 ## Forkthis Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### By Bryanna
 
 ### Description
 
-Create a description and fill it in here.
+practice in creating repo
 
 ## Languages used
 
-What languages were used for this repo:
-List them
+git bash
+html
 
 ### Known Bugs
 
-Are there any? If so what are they?
+No known bugs
 
 ## License
 
@@ -23,6 +23,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Udemy
+* Code Base Accademy
+* Nicole
